@@ -1,9 +1,36 @@
-# dev101
-Read through the following guides to get acquainted.
+# Mobile Development 101
 
+## Download and Install
+* [GitHub Desktop](https://desktop.github.com/)
+* [Atom](https://atom.io/)
+* [Java Platform (JDK) 8u131](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+* [Android Studio](https://developer.android.com/studio/index.html)
+
+## Guides
 * [GitHub: Hello World](https://guides.github.com/activities/hello-world/)
 * [Github: Understanding the flow](https://guides.github.com/introduction/flow/)
 * [Github: Getting your project on Github](https://guides.github.com/introduction/getting-your-project-on-github/)
 * [Github: Mastering Issues](https://guides.github.com/features/issues/)
 * [Github: Mastering MarkDown](https://guides.github.com/features/mastering-markdown/)
 * [Github: Documenting your Projects](https://guides.github.com/features/wikis/)
+* [Android Studio: Introduction](https://developer.android.com/studio/intro/index.html)
+* [Android Studio: Update the IDE and tools](https://developer.android.com/studio/intro/update.html)
+* [Android Studio: Workflow Basics](https://developer.android.com/studio/workflow.html)
+* [Android Studio: Projects Overview](https://developer.android.com/studio/projects/index.html)
+* [Android Studio: Creating a New Project](https://developer.android.com/studio/projects/create-project.html)
+* [Android Studio: Write your app](https://developer.android.com/studio/write/index.html)
+* [Android Studio: Building UI/Layout](https://developer.android.com/studio/write/layout-editor.html)
+* [Android Studio: Add Multi-Density Vector Graphics](https://developer.android.com/studio/write/vector-asset-studio.html)
+* [Android Studio: Connect to Firebase](https://developer.android.com/studio/write/firebase.html)
+* [Android Studio: Build and Run your app](https://developer.android.com/studio/run/index.html)
+* [Android Studio: Run apps on Emulator](https://developer.android.com/studio/run/emulator.html)
+* [Android Studio: Run apps on Device](https://developer.android.com/studio/run/device.html)
+* [Android Studio: Configure your Build](https://developer.android.com/studio/build/index.html)
+* [Android Studio: Test your app](https://developer.android.com/studio/test/index.html)
+* [Android Studio: Profile your app](https://developer.android.com/studio/profile/index.html)
+* [Android Studio: Publish your app](https://developer.android.com/studio/publish/index.html)
+* [What is a JSON File?](https://en.wikipedia.org/wiki/JSON)
+* [What is an API](https://en.wikipedia.org/wiki/Application_programming_interface)
+* [Java: Basics](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)
+* [Java: Classes and Objects](https://docs.oracle.com/javase/tutorial/java/javaOO/index.html)
+* [Java: Numbers and Strings](https://docs.oracle.com/javase/tutorial/java/data/index.html)
