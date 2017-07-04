@@ -3,3 +3,4 @@ The Code.
 - Do not push on the master.
 - Create your own branch to propose changes.
 - Discard your branches after approval of merge requests or sync with master before adding any change.
+- New update
